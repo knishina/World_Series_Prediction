@@ -17,3 +17,6 @@ There are eight folders in this directory.  Below are the file names and a brief
 This project used a minimum of data (ERA, Total Runs, and Total Wins) that was determined to have a statistical difference between the World Series winners/losers. The data were used to build a predictive model.  While the model did not successfully predict the outright winner, the winner was within the top four.  
 
 The next step is to use PCA in combination with all data, not just the minimal data explored by this current project.  Also, a better division of data would be key (divide the data for training, validation, and testing).
+
+### License.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/knishina/World_Series_Prediction/blob/master/LICENSE) for details.
