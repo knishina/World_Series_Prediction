@@ -1,7 +1,7 @@
 # World_Series_Prediction
 
 ### Summary.
-This project is a component of the [Final Project](https://knishina.github.io/Final_Project/).  In this section, it contains all components of data munging, analysis, and predictive modeling. To access the the World Series section of the project: https://knishina.github.io/World_Series_Prediction/ .
+This project is a component of the [Final Project](https://knishina.github.io/Final_Project/).  The purpose of this project is to build a model to predict the winner of the 2018 World Series. The data was obtained through Kaggle. The following modules were used analyze/visualize and build a predictive model: `pandas, numpy` for data munging, `Plotly` for visualization, `sklearn` for model building, and `HTML/CSS/Bootstrap, JavaScript` for front end.
 
 ### Contents.
 There are eight folders in this directory.  Below are the file names and a brief description of its contents.
